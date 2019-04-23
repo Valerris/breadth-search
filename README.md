@@ -1,3 +1,3 @@
-# width-search
+# breadth-search
 
-Width Search using Qt.
+Breadth Search using Qt.
